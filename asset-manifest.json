@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/darkavengeruy/flag-project-react/static/css/main.fcd830c8.chunk.css",
+    "main.js": "/darkavengeruy/flag-project-react/static/js/main.eeef285f.chunk.js",
+    "main.js.map": "/darkavengeruy/flag-project-react/static/js/main.eeef285f.chunk.js.map",
+    "runtime-main.js": "/darkavengeruy/flag-project-react/static/js/runtime-main.603c3f3d.js",
+    "runtime-main.js.map": "/darkavengeruy/flag-project-react/static/js/runtime-main.603c3f3d.js.map",
+    "static/js/2.4c65cd31.chunk.js": "/darkavengeruy/flag-project-react/static/js/2.4c65cd31.chunk.js",
+    "static/js/2.4c65cd31.chunk.js.map": "/darkavengeruy/flag-project-react/static/js/2.4c65cd31.chunk.js.map",
+    "index.html": "/darkavengeruy/flag-project-react/index.html",
+    "precache-manifest.a1843b62795fbd2071caa831d306f846.js": "/darkavengeruy/flag-project-react/precache-manifest.a1843b62795fbd2071caa831d306f846.js",
+    "service-worker.js": "/darkavengeruy/flag-project-react/service-worker.js",
+    "static/css/main.fcd830c8.chunk.css.map": "/darkavengeruy/flag-project-react/static/css/main.fcd830c8.chunk.css.map",
+    "static/js/2.4c65cd31.chunk.js.LICENSE.txt": "/darkavengeruy/flag-project-react/static/js/2.4c65cd31.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.603c3f3d.js",
+    "static/js/2.4c65cd31.chunk.js",
+    "static/css/main.fcd830c8.chunk.css",
+    "static/js/main.eeef285f.chunk.js"
+  ]
+}
